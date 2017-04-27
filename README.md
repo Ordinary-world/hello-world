@@ -1,2 +1,3 @@
 # hello-world
-jusr another resposity
+just another resposity
+ordinary-world  from shaoping sun’s strang and learned 。
